@@ -76,6 +76,10 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-remote-theme
+
+# uses jekyll-remote-theme to read a GH repo
+remote_theme: "dracula/gh-pages"
 
 # Exclude these files from your production _site
 exclude:
