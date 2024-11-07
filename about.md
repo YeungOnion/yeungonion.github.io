@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 I'm a physicist, an educator, and a programmer.
-<!-- I have a [resume](/resume/) -->
+I have a [resume](/resume/)
 
 <!-- {% image "./about.png", "A picture of me, circa 2022" %} -->
 
