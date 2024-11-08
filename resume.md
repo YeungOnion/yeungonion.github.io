@@ -1,12 +1,10 @@
-<head>
-<style>
-li.callout {list-style-type: circle;}
-</style>
-</head>
+---
+layout: resume
+---
 
 # Orion Yeung
 
-he/him * 1782 Fordem Ave, Madison, WI 53704 * (786) 301 2049 * orion.yeung@gmail.com
+he/him * 1782 Fordem Ave, Madison, WI 53704 * gmail = my name, above, delimited by period
 
 # Education
 M.S. in Physics, Rutgers University: September 2022
