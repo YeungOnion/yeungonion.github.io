@@ -15,9 +15,9 @@ I'd like to make a difference in reducing barriers for people to use and rely on
 I'd like to create tools that make it easier to get started, both with practical aspects and educational ones.
 I started with some practical tooling, looked at projects where I could get new experience, and started a bit on a educational lesson.
 
-| [pixi.sh](https://pixi.sh) | Conda-based dependency management |
-| [Software Carpentries][sw-c], [lesson][gh-python-hep] | software education for scientists |
-| [`statrs`][gh-statrs] | statistics tools in Rust |
+* [pixi.sh](https://pixi.sh), Conda-based dependency management
+* [Software Carpentries][sw-c], [lesson][gh-python-hep], software education for scientists
+* [`statrs`][gh-statrs], statistics tools in Rust
 
 
 [sw-c]: https://carpentries.org/index.html
