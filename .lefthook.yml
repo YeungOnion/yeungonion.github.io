@@ -1,0 +1,8 @@
+pre-commit:
+  commands:
+    generate-pretty-resume:
+      run: |
+        command bat _includes/resume-content.md -lmd --color=always -pp > _includes/resume-pretty.txt
+        echo "\n\nIf you were expecting an HTML web page, please visit /resume.html" >> _includes/resume-pretty.txt
+        git add _includes/resume-pretty.txt
+      files: _includes/resume-content.md
