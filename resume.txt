@@ -1,0 +1,5 @@
+---
+permalink: /resume.txt
+---
+[1;38;2;249;38;114m**[0m[1;38;2;249;38;114mORION YEUNG[0m[1;38;2;249;38;114m**[0m
+{% include resume-pretty.txt %}

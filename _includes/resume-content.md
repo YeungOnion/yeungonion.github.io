@@ -1,14 +1,14 @@
 he/him * 515 Pinney St, Madison, WI 53714 * gmail = my name, above, delimited by period
 
 # Education
-M.S. in Physics, Rutgers University: September 2022
+M.S. in Physics, Rutgers University: September 2022 \\
 B.S. in Mechanical Engineering, Florida State University: December 2019
 
 # Skills
 
-Programming/Scripting: C++, Python, Rust, and MATLAB; exposure to Go. Linux CLI and shell scripting.
-Developer Tooling: VCS with git for local and distributed development, CI via GitHub Actions; exposure to Docker.
-Knowledge Growth and Sharing: Reading and writing docs and tutorials, CRLA Level III Certified Tutor.
+Programming/Scripting: C++, Python, Rust, and MATLAB; exposure to Go. Linux CLI and shell scripting. \\
+Developer Tooling: VCS with git for local and distributed development, CI via GitHub Actions; exposure to Docker. \\
+Knowledge Growth and Sharing: Reading and writing docs and tutorials, CRLA Level III Certified Tutor. \\
 Soft-skills: Any-audience scientiﬁc/technical communication, feedback-oriented, many-priority time management.
 
 # Professional Experiences

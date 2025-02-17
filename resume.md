@@ -1,7 +1,7 @@
 ---
 layout: resume
 title: Orion Yeung - Resume
-permalink: /resume/
 ---
 
+# **Orion Yeung**
 {% include resume-content.md %}
