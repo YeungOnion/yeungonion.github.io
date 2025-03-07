@@ -1,0 +1,6 @@
+{% if page.url == target_url %}
+  <a class = "active-nav" href="{{ target_url }}/">{{ target_display_name }}</a>
+{% else %}
+  <a href="{{ target_url }}/">{{ target_display_name }}</a>
+{% endif %}
+

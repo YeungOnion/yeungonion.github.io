@@ -27,8 +27,15 @@
           </div>
 
           <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
+            {% for nav_item in site.navigation %}
+              {% assign url = page.url | replace: '/index.html', '' %}
+              {% assign nav_url = nav_item.url | relative_url | replace: '/index.html', '' %}
+    
+                <a href="{{ nav_url }}" title="{{ nav_item.title }}"
+                  {% if url == nav_url %} class="active" {% endif %}>
+                  {{ nav_item.text }}
+                </a>
+            {% endfor %}
           </nav>
         </header>
       </div>

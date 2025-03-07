@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 I'm a physicist, an educator, and a programmer.
-I have a [resume](/resume/)
+Check out my [resume](/resume/), a terminal emulator (ANSI codes) friendly version at [resume.txt](/resume.txt).
 
 In my free time, I like to rock climb, contribute to open source, and do yoga.
 <!-- {# As of writing this, in Fall 2023, I'm searching for what amount of identity I want tied up in my career.#} -->

@@ -19,7 +19,7 @@ html {
 }
 
 body {
-	background: variables.$white;
+  background: variables.$white;
   font: 18px/1.4 variables.$helvetica;
   color: variables.$darkGray;
 }
@@ -72,7 +72,7 @@ p {
 a {
   color: variables.$blue;
   text-decoration: none;
-	cursor: pointer;
+  cursor: pointer;
   &:hover, &:active {
     color: variables.$blue;
   }
@@ -203,7 +203,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: variables.$gray;
+  color: variables.$darkGray;
   font-size: 16px;
 
   @include variables.mobile {
@@ -229,12 +229,17 @@ nav {
     color: variables.$darkGray;
     text-align: right;
     font-weight: 300;
-    letter-spacing: 1px;
+    letter-spacing: 0.5px;
 
     @include variables.mobile {
       margin: 0 10px;
-      color: variables.$blue;
+      color: variables.$darkGray;
     }
+  }
+
+  a.active {
+    color: variables.$black;
+    font-weight: bold;
   }
 }
 

@@ -6,10 +6,22 @@
 name: Orion Yeung
 
 # Short bio or description (displayed in the header)
-description: Aspiring Research Software Engineer
+description: Research Software Engineer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://0.gravatar.com/avatar/f94c75d91603c42915cbd896021c548b
+
+# Orion's navbar entries
+navigation:
+  - text: Home
+    title: home
+    url: /
+  - text: About
+    title: about
+    url: /about/
+  - text: Resume
+    title: resume, web
+    url: /resume/
 
 #
 # Flags below are optional
@@ -23,7 +35,7 @@ footer-links:
   flickr:
   github: YeungOnion
   instagram:
-  linkedin:
+  linkedin: orion-yeung-34a322a4
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
@@ -70,12 +82,12 @@ kramdown:
     # Use existing pygments syntax highlighting css
     css_class: 'highlight'
 
-# Set the Sass partials directory, as we're using @imports
+# Set the Sass partials directory, for @use
 sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-gems:
+plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-remote-theme
